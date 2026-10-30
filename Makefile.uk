@@ -1,3 +1,5 @@
+LIBMUSL_URL := https://www.musl-libc.org/releases/musl-1.2.3.tar.gz
+LIBMUSL_ORIGIN_SHA256 := 7d5b0b6062521e4627e099e4c9dc8248d32a30285e959b7eecaa780cf8cfd4a4
 #  libmusl Makefile.uk
 #
 #  Authors: Felipe Huici <felipe.huici@neclab.eu>
